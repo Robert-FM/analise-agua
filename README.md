@@ -58,6 +58,9 @@ ANALISE-AGUA/
 - Seaborn
 - Scikit-Learn
 - CatBoost
+- LightGBM
+- Gradient Boosting
+- XGBoost
 - Jupyter Notebook
 - UV
 
