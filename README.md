@@ -1,4 +1,4 @@
-# ANÁLISE-ÁGUA
+# Machine Learning Aplicado à Qualidade da Água
 
 Projeto de análise de qualidade da água utilizando Python e técnicas de Machine Learning para tratamento, análise exploratória e treinamento de modelos preditivos.
 
