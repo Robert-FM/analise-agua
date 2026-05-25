@@ -51,7 +51,7 @@ ANALISE-AGUA/
 
 ## ⚙️ Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.14
 - Pandas
 - NumPy
 - Matplotlib
@@ -68,7 +68,7 @@ ANALISE-AGUA/
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/analise-agua.git
+git clone https://github.com/Robert-FM/analise-agua.git
 cd analise-agua
 ```
 
