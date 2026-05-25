@@ -163,8 +163,9 @@ Modelos utilizados:
 
 - Random Forest
 - CatBoost
-- Logistic Regression
-- Outros algoritmos de classificação
+- CatBoost
+- LightGBM
+- Gradient Boosting
 
 ---
 
@@ -223,7 +224,8 @@ Potability
 
 Robert Melo
 
-🔗 LinkedIn: https://www.linkedin.com/in/robertdemelo/ 
+🔗 LinkedIn: https://www.linkedin.com/in/robertdemelo/
+
 🐍 Python | IA | Machine Learning | LangChain | Data Science
 
 ---
